@@ -10,7 +10,7 @@ baseURL: 'www.gabrielesisinna.com' # Website URL
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: it
+defaultContentLanguage: en
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true
