@@ -23,29 +23,53 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: https://www.coursera.org
+  - certificate_url: https://www.linkedin.com/learning/agile-software-development
     date_end: ''
-    date_start: '2021-01-25'
+    date_start: '2022-02-10'
     description: ''
-    organization: Coursera
-    organization_url: https://www.coursera.org
-    title: Neural Networks and Deep Learning
+    organization: Linkedin
+    organization_url: https://www.linkedin.com/
+    title: Agile Software Development
     url: ''
-  - certificate_url: https://www.edx.org
+  - certificate_url: https://matlabacademy.mathworks.com/progress/share/certificate.html?id=7c2dee04-1799-48bf-b39e-6c3959220681&
     date_end: ''
-    date_start: '2021-01-01'
-    description: Formulated informed blockchain models, hypotheses, and use cases.
-    organization: edX
-    organization_url: https://www.edx.org
-    title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-  - certificate_url: https://www.datacamp.com
-    date_end: '2020-12-21'
-    date_start: '2020-07-01'
+    date_start: '2022-01-01'
     description: ''
-    organization: DataCamp
-    organization_url: https://www.datacamp.com
-    title: 'Object-Oriented Programming in R'
+    organization: MathWorks
+    organization_url: https://it.mathworks.com/
+    title: Control Design with Simulink
+    url: https://matlabacademy.mathworks.com/progress/share/certificate.html?id=7c2dee04-1799-48bf-b39e-6c3959220681&
+  - certificate_url: https://www.linkedin.com/learning/learning-python-2/learning-python?autoplay=true
+    date_end: ''
+    date_start: '2020-04-01'
+    description: ''
+    organization: Linkedin
+    organization_url: https://www.linkedin.com/
+    title: 'Learning Python'
+    url: ''
+  - certificate_url: https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3
+    date_end: ''
+    date_start: '2020-04-01'
+    description: ''
+    organization: Linkedin
+    organization_url: https://www.linkedin.com/
+    title: 'Programming Foundations: Object-Oriented Design'
+    url: ''
+  - certificate_url: https://www.linkedin.com/learning/programming-foundations-algorithms
+    date_end: ''
+    date_start: '2020-03-01'
+    description: ''
+    organization: Linkedin
+    organization_url: https://www.linkedin.com/
+    title: 'Programming Foundations - Algorithms'
+    url: ''
+  - certificate_url: 
+    date_end: ''
+    date_start: '2018-01-01'
+    description: ''
+    organization: Udemy
+    organization_url: https://www.udemy.com/
+    title: 'Designing for 3D Printing with Fusion 360'
     url: ''
 
 design:
