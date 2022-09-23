@@ -17,7 +17,7 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
   - description: 90%
-    icon: python
+    icon: fa-python
     icon_pack: fa
     name: Python
   - description: 100%
@@ -25,7 +25,7 @@ feature:
     icon_pack: fa
     name: Robotics
   - description: 80%
-    icon: linux
+    icon: fa-linux
     icon_pack: fa
     name: Linux
 # Uncomment to use emoji icons.
