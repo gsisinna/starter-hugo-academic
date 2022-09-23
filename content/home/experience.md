@@ -45,15 +45,16 @@ experience:
     location: Italy
     date_start: '2022-05-01'
     date_end: '2022-09-01'
-    description: My responsibilities included analyzing the state of the art regarding the Robot Testing Framework, bugfixes of the icub-tests suite based on YARP middleware, writing new tests in C++ and final deployment based on Docker.
+    description: |2-
+        My responsibilities included analyzing the state of the art regarding the Robot Testing Framework, bugfixes of the icub-tests suite based on YARP middleware, writing new tests in C++ and final deployment based on Docker.
 
-    - C++ programming
-    - CMake
-    - Robot control (iCub) and functional testing
-    - Linux, Git
-    - YARP middleware
-    - Docker
-    - Agile / SCRUM
+      - C++ programming
+      - CMake
+      - Robot control (iCub) and functional testing
+      - Linux, Git
+      - YARP middleware
+      - Docker
+      - Agile / SCRUM
 
 design:
   columns: '2'
